@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Software Architecture
 - 💞️ I’m looking to collaborate on code software projects.
-- 📫 How to reach me send me a smoke sinal.
+- 📫 How to reach me send me a smoke sinal (email, linkedin, whatsapp, instagram).
 
 <!---
 skatesham/skatesham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
