@@ -1,27 +1,43 @@
-# Manifesto WareSoft / ManaVitae (PT-BR)
+# Sobre mim
 
-Software é ferramenta — e também linguagem.
-Na WareSoft, tratamos sistemas como artesanato: cada decisão existe por um motivo.
+Sou **Sham Vinicius Fiorin**, engenheiro de software com atuação em backend e full-stack, com predominância de Java e Spring.
 
-## O que buscamos
-Construir produtos com **clareza, performance e integridade**.
-Menos excesso. Mais sentido. Menos ruído. Mais valor real.
+Minha experiência passa por diferentes momentos de um sistema: criação de APIs, integração entre domínios, processamento assíncrono, evolução de legado, migrações, testes, entrega e resolução de problemas em produção. Trabalhei em contextos financeiros e de alta volumetria, nos quais consistência, rastreabilidade e comunicação entre equipes importam tanto quanto o código.
 
-## Nossos princípios
-- **O domínio manda:** o problema real define a forma do sistema.
-- **Simplicidade escalável:** o mínimo que funciona bem, pronto para crescer.
-- **Arquitetura limpa:** dependências conscientes, acoplamento baixo, testes possíveis.
-- **Performance com responsabilidade:** rápido, estável, previsível — do banco à UI.
-- **Segurança e privacidade por padrão:** não como “feature”, mas como base.
-- **Documentação viva:** decisões registradas (README, ADRs, CHANGELOG) para evitar amnésia.
-- **Acessibilidade e dark mode desde o início:** respeito ao usuário é requisito.
-- **Entrega contínua:** iterar pequeno, medir, melhorar — sempre.
+## O tipo de problema que me interessa
 
-## Compromissos
-- Entregar com **qualidade mensurável** (testes, observabilidade, revisão).
-- Reduzir complexidade antes de adicionar novas camadas.
-- Preferir **soluções robustas** a modas — e modas só quando provam valor.
-- Fazer software que **funciona, comunica e dura**.
+Tenho especial interesse por problemas em que engenharia e contexto de negócio precisam conversar:
 
-> Não construímos para preencher telas.
-> Construímos sistemas que importam.
+- desenhar contratos claros entre serviços;
+- tornar migrações verificáveis e reversíveis;
+- reduzir o risco ao evoluir sistemas legados;
+- encontrar a causa de falhas que atravessam mais de um domínio;
+- construir o mínimo necessário sem comprometer a evolução.
+
+## Experiências que moldaram meu trabalho
+
+No backoffice financeiro do PagSeguro, atuei em fluxos com Java 11, Python, Kafka, SQS, AWS e Kubernetes. Em uma migração integrada a cinco domínios, ajudei a decompor o trabalho para uma equipe de seis pessoas e montei um processo de reconciliação por IDs, quantidades e valores. Testes e feature toggle permitiram validar o fluxo novo antes da substituição definitiva.
+
+Também desenvolvi APIs e integrações Java/Spring na Embraer/GSW, trabalhei com aplicações Java/Angular de alta volumetria integradas por Kafka na Hands Mobile e participei da manutenção e evolução de sistemas existentes na CodeSquare.
+
+Em paralelo, construí protótipos e projetos próprios para experimentar arquiteturas, produtos digitais e programação assistida por IA. Essa prática reforçou uma convicção: velocidade só gera valor quando contexto, critérios de qualidade e intenção permanecem visíveis.
+
+## Princípios
+
+1. **Entender antes de abstrair.** A arquitetura deve responder ao problema real.
+2. **Evoluir em passos verificáveis.** Mudanças pequenas e observáveis reduzem risco.
+3. **Operação faz parte do design.** Um sistema precisa ser diagnosticável depois do deploy.
+4. **Documentar decisões, não cerimônias.** O objetivo é preservar contexto útil.
+5. **Usar tecnologia com critério.** Ferramentas são escolhas, não identidade.
+
+## Formação e idiomas
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC-SJC — Prof. Jessen Vidal. Inglês avançado.
+
+## Contato
+
+- [LinkedIn](https://br.linkedin.com/in/shamfiorin)
+- [GitHub](https://github.com/skatesham)
+- [E-mail](mailto:sham.vinicius@gmail.com)
+
+[← Voltar para o perfil](./README.md)
